@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Urich Oliveira</h1>
-<h3 align="center">A trainee developer, who loves to code in Python and play Stardew Valley.</h3>
+<h1 align="center">Olá 👋, meu nome é Urich Oliveira</h1>
+<h3 align="center">Sou um Desenvolvedor Trainee, e gosto muito de programação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uricholiveira" alt="uricholiveira" /> </p>
 
-- 🔭 I’m currently working on **Harpo Tecnologia de Dados**
+- 🔭 Atualmente trabalho na **Harpo Tecnologia de Dados**
 
-- 🌱 I’m currently learning **FastAPI, Vagrant, Docker and English :)**
+- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Golang, Vuejs Docker e Inglês :)**
 
-- 👯 I’m looking to collaborate on **Python projects, initially more simple projects**
+- 👯 Procuro contribuir com projetos Python, **inicialmente projetos mais simples (mas nada impede de pegar um topzera e me virar)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/uricholiveira](https://github.com/uricholiveira)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/uricholiveira](https://github.com/uricholiveira)
 
-- 💬 Ask me about **python, vuejs and flask**
+- 💬 Bora trocar uma ideia, sou muito curioso e estou sempre procurando aprender. 😎✌
 
-- 📫 How to reach me **oliveira.urich@gmail.com**
+- 📫 Qualquer coisa, só chamar **oliveira.urich@gmail.com** 🚀
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p>
 
