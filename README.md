@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalho na **Harpo Tecnologia de Dados**
 
-- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Golang, Vuejs Docker e Inglês :)**
+- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Golang, Vuejs, Docker e sempre busco aperfeiçoar meu inglês :)**
 
 - 👯 Procuro contribuir com projetos Python, **inicialmente projetos mais simples (mas nada impede de pegar um topzera e me virar)**
 
