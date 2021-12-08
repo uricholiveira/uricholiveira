@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uricholiveira" alt="uricholiveira" /> </p>
 
-- 🔭 Atualmente trabalho na **Harpo Tecnologia de Dados**
+- 🔭 Atualmente trabalho na **QI TECH**
 
 - 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Golang, Vuejs, Docker e sempre busco aperfeiçoar meu inglês :)**
 
