@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Urich Oliveira</h1>
-<h3 align="center">Atualmente sou um Engenheiro de Software Júnior.</h3>
+<h3 align="center">Prazer em conhecê-lo (a).</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uricholiveira" alt="uricholiveira" /> </p>
-# Hello there, I'm Urich! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uricholiveira&style=flat-square" alt="uricholiveira" /> </p>
 
 <a href="https://github.com/LuanColeto">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=uricholiveira&show_icons=true&theme=dracula">
