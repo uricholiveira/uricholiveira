@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Urich Oliveira</h1>
+<h1 align="center">Olá 👋! Meu nome é Urich Oliveira.</h1>
 <h3 align="center">Prazer em conhecê-lo (a).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uricholiveira&style=flat-square" alt="uricholiveira" /> </p>
