@@ -4,6 +4,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uricholiveira&style=flat-square" alt="uricholiveira" /> </p>
 
 <p align="center">
+  - 🔭 Atualmente trabalho na **QI TECH**
+
+- 🌱 No momento, eu estudo as tecnologias: **Python, Flask, FastAPI, Golang, Vuejs, Docker e sempre busco aperfeiçoar meu inglês :)**
+
+- 👯 Procuro contribuir com projetos Python, **inicialmente projetos mais simples (mas nada impede de pegar um topzera e me virar)**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/uricholiveira](https://github.com/uricholiveira)
+
+- 💬 Bora trocar uma ideia, sou muito curioso e estou sempre procurando aprender. 😎✌
+  </p>
+  <br><br>
+
+<p align="center">
   <a href="https://github.com/LuanColeto">
   <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=uricholiveira&show_icons=true&theme=dracula">
 </a>
