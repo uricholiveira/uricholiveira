@@ -6,7 +6,7 @@
 <p align="center"> https://uricholiveira.github.io/about-me/ </p>
 
 
-- 🔭 Atualmente trabalho na **NAVA**
+- 🔭 Atualmente estou disponível e procurando novas oportunidades!
 
 - 👯 Procuro contribuir com projetos.
 
